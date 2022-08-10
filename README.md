@@ -44,6 +44,13 @@ Therefore it can uses in the field of advertising, toys, decorating etc.
 Full report
 
 
+## guid line
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid1.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid2.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid3.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid4.jpg)
+
+
 ## photos
 ![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic1.jpg)
 ![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic2.jpg)
@@ -58,8 +65,14 @@ Full report
 ![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic11.jpg)
 ![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic12.jpg)
 ![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic13.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic14.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic15.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic16.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic17.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic18.jpg)
 
-## guid line
+
+
 
 
 
