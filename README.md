@@ -2,6 +2,7 @@
 embedded system
 
 # 8×8×8 LED cube with Interrupts
+## Introduction
 
 A microcontroller is a small computer. Both have several things common like the CPU 
 (central processing unit), execution of programs, presence of RAM (random-access memory) 
@@ -38,6 +39,15 @@ were controlled using nine shift registers. The patterns are displayed on a 3D s
 is made up of steel rods. The complete display system circuit is power supply run on 5V, 4A 
 that is provided externally. This unique way of displaying messages is a very eye catching. 
 Therefore it can uses in the field of advertising, toys, decorating etc.
+
+
+Full report
+
+
+## photos
+![]();
+
+## guid line
 
 
 
