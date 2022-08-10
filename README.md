@@ -45,10 +45,10 @@ Full report
 
 
 ## guid line
-![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid1.jpg)
-![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid2.jpg)
-![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid3.jpg)
-![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid4.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid1.png)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid2.png)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid3.png)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/guid4.png)
 
 
 ## photos
