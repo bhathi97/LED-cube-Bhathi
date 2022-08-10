@@ -45,7 +45,19 @@ Full report
 
 
 ## photos
-![]()
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic1.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic2.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic3.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic4.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic5.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic6.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic7.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic8.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic9.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic10.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic11.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic12.jpg)
+![](https://github.com/bhathi97/LED-cube-Bhathi/blob/main/pic13.jpg)
 
 ## guid line
 
