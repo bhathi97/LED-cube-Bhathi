@@ -41,7 +41,8 @@ that is provided externally. This unique way of displaying messages is a very ey
 Therefore it can uses in the field of advertising, toys, decorating etc.
 
 
-Full report
+Full report link : https://github.com/bhathi97/LED-cube-Bhathi/blob/main/report.pdf
+Video link : 
 
 
 ## guid line
